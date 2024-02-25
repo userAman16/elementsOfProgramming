@@ -1,5 +1,13 @@
 #include<iostream>
 
+
+/*
+Iterate through S, keeping track of the minimum element m seen thus far. If the
+difference of the current element and m is greater than the maximum profit recorded
+so far, update the maximum profit. This algorithm performs a constant amount of
+work per array element, leading to an O(n) time complexity.
+*/
+
 int main()
 {
 int input[] = {9, 4, 3, 6, 5, 8, 1, 4, 3, 2, 8, 9, 4};
