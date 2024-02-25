@@ -1,5 +1,11 @@
 #include<iostream>
 
+/*
+design an algorithm that determines the maximum profit that
+could have been made by buying and then selling a single share over a given day
+range, subject to the constraint that the buy and the sell have to take place at the start
+of the day. (This algorithm may be needed to backtest a trading strategy.)
+*/
 
 /*
 Iterate through S, keeping track of the minimum element m seen thus far. If the
