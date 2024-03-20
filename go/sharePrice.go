@@ -16,7 +16,7 @@ package main
 
 import "fmt"
 
-func main() {
+func SharePrice() {
 	inputArr := []int{8, 7, 10, 2, 6, 4, 3, 10}
 	i, canMin := 0, 0
 	min, max := inputArr[i], inputArr[i]
