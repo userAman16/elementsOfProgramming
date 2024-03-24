@@ -2,5 +2,8 @@ package main
 
 func main() {
 	//SharePrice()
-	Parity()
+	//Parity()
+	//ComputeXUponY()
+	//ConvertBase()
+	randomAB()
 }
