@@ -5,5 +5,8 @@ func main() {
 	//Parity()
 	//ComputeXUponY()
 	//ConvertBase()
-	randomAB()
+	//randomAB()
+	ReverseWordsInString()
+	//PhoneMnemonic()
+	//LinkedListMergeMain()
 }
