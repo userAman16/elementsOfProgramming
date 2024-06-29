@@ -6,7 +6,10 @@ func main() {
 	//ComputeXUponY()
 	//ConvertBase()
 	//randomAB()
-	ReverseWordsInString()
+	//ReverseWordsInString()
 	//PhoneMnemonic()
 	//LinkedListMergeMain()
+	//LRUCache()
+	//DP()
+	LruCacheTest()
 }
