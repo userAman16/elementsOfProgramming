@@ -11,5 +11,6 @@ func main() {
 	//LinkedListMergeMain()
 	//LRUCache()
 	//DP()
-	LruCacheTest()
+	//LruCacheTest()
+	KnapsackMain()
 }
