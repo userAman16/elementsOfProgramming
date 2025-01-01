@@ -12,5 +12,6 @@ func main() {
 	//LRUCache()
 	//DP()
 	//LruCacheTest()
-	KnapsackMain()
+	//KnapsackMain()
+	LongestNonDecreasingSubsequenceMain()
 }
