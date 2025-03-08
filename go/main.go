@@ -15,5 +15,6 @@ func main() {
 	//KnapsackMain()
 	//LongestNonDecreasingSubsequenceMain()
 	//RussianDollEnvelope()
-	TwoSum()
+	//TwoSum()
+	ThreeSumMain()
 }
