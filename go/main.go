@@ -3,7 +3,7 @@ package main
 func main() {
 	//SharePrice()
 	//Parity()
-	//ComputeXUponY()
+	ComputeXUponY()
 	//ConvertBase()
 	//randomAB()
 	//ReverseWordsInString()
@@ -16,5 +16,7 @@ func main() {
 	//LongestNonDecreasingSubsequenceMain()
 	//RussianDollEnvelope()
 	//TwoSum()
-	ThreeSumMain()
+	//ThreeSumMain()
+	//InsertionSortMain()
+	//PubSubMain()
 }
