@@ -3,8 +3,8 @@ package main
 func main() {
 	//SharePrice()
 	//Parity()
-	ComputeXUponY()
-	//ConvertBase()
+	//ComputeXUponY()
+	ConvertBase()
 	//randomAB()
 	//ReverseWordsInString()
 	//PhoneMnemonic()
